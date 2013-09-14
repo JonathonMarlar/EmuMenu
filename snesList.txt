@@ -1,0 +1,21 @@
+C:\Roms\Neslocation
+Castlevania Dracula X
+Konami
+images/snes/draculax.jpg
+C:\Roms\Nes\castlevania.nes
+Donkey Kong Country
+Rareware
+images/snes/dkc.jpg
+C:\Roms\Nes\castlevania.nes
+Final Fantasy III (Final Fantasy VI)
+Squaresoft
+images/snes/ffiii.jpg
+C:\Roms\Nes\castlevania.nes
+Super Mario World
+Nintendo
+images/snes/smw.jpg
+C:\Roms\Nes\castlevania.nes
+Star Fox
+Nintendo
+images/snes/starfox.jpg
+C:\Roms\Nes\castlevania.nes

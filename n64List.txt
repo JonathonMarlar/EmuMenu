@@ -1,0 +1,21 @@
+C:\Roms\N64location
+Banjo-Kazooie
+Rareware
+images/N64/banjokazooie.jpg
+C:\Roms\N64\castlevania.N64
+F-Zero X
+Nintendo
+images/N64/fzerox.jpg
+C:\Roms\N64\castlevania.N64
+The Legend of Zelda: Ocarina of Time
+Nintendo
+images/N64/legendofzeldaOOT.jpg
+C:\Roms\N64\castlevania.N64
+Super Mario 64
+Nintendo
+images/N64/supermario64.jpg
+C:\Roms\N64\castlevania.N64
+Super Smash Bros.
+HAL Laboratories
+images/N64/supersmashbros.jpg
+C:\Roms\N64\castlevania.N64

@@ -1,0 +1,21 @@
+C:\Roms\Neslocation
+Castlevania
+Konami
+images/nes/castlevania.jpg
+C:\Roms\Nes\castlevania.nes
+Contra
+Konami
+images/nes/contra.jpg
+C:\Roms\Nes\castlevania.nes
+DuckTales
+Capcom
+images/nes/ducktales.jpg
+C:\Roms\Nes\castlevania.nes
+The Legend of Zelda
+Nintendo
+images/nes/legendofzelda.jpg
+C:\Roms\Nes\castlevania.nes
+Super Mario Bros.
+Nintendo
+images/nes/supermariobros.jpg
+C:\Roms\Nes\castlevania.nes
